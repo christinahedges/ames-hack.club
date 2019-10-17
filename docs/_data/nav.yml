@@ -1,10 +1,10 @@
 - title: Home
-  url: /ames-hack.club/
+  url: /{{ site.baseurl }}/
 - title: Next Hack Day
-  url: /ames-hack.club/#upcoming-hack-day
+  url: /{{ site.baseurl }}/#upcoming-hack-day
 - title: FAQ
-  url: /ames-hack.club/faq.html
+  url: /{{ site.baseurl }}/faq.html
 - title: Blog
-  url: /ames-hack.club/blog.html
+  url: /{{ site.baseurl }}/blog.html
 - title: Code Of Conduct
-  url: /ames-hack.club/code-of-conduct.html
+  url: /{{ site.baseurl }}/code-of-conduct.html
