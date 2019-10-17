@@ -4,15 +4,20 @@ title: FAQ
 
 ### What is Ames Hack Club?
 
+AHC is a group of scientists at NASA Ames who meet 2-4 times a year to collaborate and hack on science projects.
+
 ### Can I join Ames Hack Club?
+
+If you're a scientist at Ames, simply sign up for the next hack using our form. If you're outside Ames and want to collaborate in a hack day, get in touch. The more interest we have from people outside Ames, the easier it will be for us to set up a hack day that can include non-Ames scientists!
 
 ### How do I sign up?
 
+Check out our [upcoming hack day]({{ site.url }}/ames-hack.club/#upcoming-hack-day)
+
 ### Where is the hack day?
 
-### How do I get updates about the hack day?
+Hack days take place at Ames, inside the gates, in the collaborative space.
 
-### What is the format of the hack day?
 
 ### Who should I talk to about the hack day?
 

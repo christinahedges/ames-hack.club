@@ -1,8 +1,10 @@
 - title: Home
-  url: ames-hack.club/
+  url: /ames-hack.club/
+- title: Next Hack Day
+  url: /ames-hack.club/#upcoming-hack-day
 - title: FAQ
-  url: ames-hack.club/faq.md
+  url: /ames-hack.club/faq.md
 - title: Blog
-  url: ames-hack.club/blog.html
+  url: /ames-hack.club/blog.html
 - title: Code Of Conduct
-  url: ames-hack.club/code-of-conduct.md
+  url: /ames-hack.club/code-of-conduct.md
