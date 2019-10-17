@@ -8,8 +8,6 @@ title: FAQ
 
 ### How do I sign up?
 
-### When is the next hack day?
-
 ### Where is the hack day?
 
 ### How do I get updates about the hack day?

@@ -9,7 +9,7 @@ form_url: https://forms.gle/QwSty4bSqedNE8X2A
 
 # Hello World
 
-Ames Hack Club is a group of scientists who meet several times a year to hack on science problems at NASA Ames. You can learn more about AHC at our [FAQ Page](faq.md)
+Ames Hack Club is a group of scientists who meet several times a year to hack on science problems at NASA Ames. You can learn more about AHC at our [FAQ Page](faq.md). Our next hack day is coming on [{{ page.date }}](#Upcoming-Hack-Day).
 
 ## What is a hack day?
 
@@ -35,7 +35,7 @@ A hack is a small project, with a clear goal, which should be **completed** by t
 
 At the beginning of the hack day we will have pitches. Any participant can stand up for 1 minute, explain the challenge they would like to work on, and pitch their idea for a hack. If you have something you'd like to pitch, be ready to stand up with the mic and pitch it to everyone at 9am!
 
-# Upcoming Hack Day: {{ page.date }}
+# Upcoming Hack Day
 
 Our next hack day is on **{{ page.date }}**. You can join us at {{ page.time }} at {{ page.location }}. We will have a short 5 minute opening presentation at {{ page.time }}, after which we will have 1 minute lightning pitches from participants. At {{ page.end-time }} we will have wrap up slides from participants, showing what they've learned from the day.
 
