@@ -1,4 +1,5 @@
 ---
+title: ames-hack.club
 date: December 2019
 time: 9am
 end-time: 4:30pm
