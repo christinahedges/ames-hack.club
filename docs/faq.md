@@ -1,6 +1,12 @@
+---
+title: FAQ
+---
+
 ### What is Ames Hack Club?
 
 ### Can I join Ames Hack Club?
+
+### How do I sign up?
 
 ### When is the next hack day?
 
