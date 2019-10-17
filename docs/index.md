@@ -5,6 +5,7 @@ time: 9am
 end-time: 4:30pm
 location: the Ames Collaborative Space
 form_url: https://forms.gle/QwSty4bSqedNE8X2A
+poster: ames-hack-poster-december.png
 ---
 
 # Hello World
@@ -29,14 +30,14 @@ A hack is a small project, with a clear goal, which should be **completed** by t
 
 * **{{ page.time }}** Short intro and pitches
 * **Hack Time**
-* **{{ page.end_time }}** Presentations and wrap up slides
+* **{{ page.end-time }}** Presentations and wrap up slides
 
 ### Pitches
 
 At the beginning of the hack day we will have pitches. Any participant can stand up for 1 minute, explain the challenge they would like to work on, and pitch their idea for a hack. If you have something you'd like to pitch, be ready to stand up with the mic and pitch it to everyone at 9am!
 
 # Upcoming Hack Day
-
+<center><img src={{ page.poster } height=500}></img></center>
 Our next hack day is on **{{ page.date }}**. You can join us at {{ page.time }} at {{ page.location }}. We will have a short 5 minute opening presentation at {{ page.time }}, after which we will have 1 minute lightning pitches from participants. At {{ page.end-time }} we will have wrap up slides from participants, showing what they've learned from the day.
 
 You can sign up to participate in our hack day by completing our [online form]({{ page.form_url }}).
