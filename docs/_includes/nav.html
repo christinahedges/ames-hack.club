@@ -1,7 +1,7 @@
 <center>
 <nav>
   {% for nav in site.data.nav %}
-    <button type="button" href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</button>
+    <a href="{{ site.url }}{{ nav.url }}" class="btn">{{ nav.title }}</a>
   {% endfor %}
 </nav>
 </center>
