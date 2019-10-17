@@ -1,8 +1,8 @@
-- name: Home
-  link: /
-- name: FAQ
-  link: /faq.md
-- name: Blog
-  link: /blog.html
-- name: Code Of Conduct
-  link: /code-of-conduct.md
+- title: Home
+  url: /
+- title: FAQ
+  url: /faq.md
+- title: Blog
+  url: /blog.html
+- title: Code Of Conduct
+  url: /code-of-conduct.md
