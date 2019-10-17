@@ -13,7 +13,7 @@ Ames Hack Club is a group of scientists who meet several times a year to hack on
 
 Our next hack day is on **{{ page.date }}**. You can join us at {{ page.time }} at {{ page.location }}. We will have a short 5 minute opening presentation at {{ page.time }}, after which we will have 1 minute lightning pitches from participants. At {{ page.end-time }} we will have wrap up slides from participants, showing what they've learned from the day.
 
-You can check out previous hacks from previous events at our [blog]{blog.html}.
+You can check out previous hacks from previous events at our [blog](blog.html).
 
 
 You can find our Code of Conduct [here](code-of-conduct.md).
