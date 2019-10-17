@@ -38,9 +38,7 @@ At the beginning of the hack day we will have pitches. Any participant can stand
 
 # Upcoming Hack Day
 
-<center>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/ames-hack-poster-december.png" width=400>
-</center>
 
 Our next hack day is on **{{ page.date }}**. You can join us at {{ page.time }} at {{ page.location }}. We will have a short 5 minute opening presentation at {{ page.time }}, after which we will have 1 minute lightning pitches from participants. At {{ page.end-time }} we will have wrap up slides from participants, showing what they've learned from the day.
 
