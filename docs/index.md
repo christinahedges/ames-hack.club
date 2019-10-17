@@ -5,7 +5,7 @@ time: 9am
 end-time: 4:30pm
 location: the Ames Collaborative Space
 form_url: https://forms.gle/QwSty4bSqedNE8X2A
-poster: ames-hack-poster-december.png
+poster: _posts/images/ames-hack-poster-december.png
 ---
 
 # Hello World
