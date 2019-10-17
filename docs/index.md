@@ -15,9 +15,7 @@ Our next hack day is on **{{ page.date }}**. You can join us at {{ page.time }} 
 
 You can check out previous hacks from previous events at our [blog](blog.html).
 
-
 You can find our Code of Conduct [here](code-of-conduct.md).
-
 
 ### Acknowledgements
 
