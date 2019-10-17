@@ -37,7 +37,7 @@ A hack is a small project, with a clear goal, which should be **completed** by t
 At the beginning of the hack day we will have pitches. Any participant can stand up for 1 minute, explain the challenge they would like to work on, and pitch their idea for a hack. If you have something you'd like to pitch, be ready to stand up with the mic and pitch it to everyone at 9am!
 
 # Upcoming Hack Day
-{% include poster.html %}
+![{{ page.poster }}]()
 
 Our next hack day is on **{{ page.date }}**. You can join us at {{ page.time }} at {{ page.location }}. We will have a short 5 minute opening presentation at {{ page.time }}, after which we will have 1 minute lightning pitches from participants. At {{ page.end-time }} we will have wrap up slides from participants, showing what they've learned from the day.
 
