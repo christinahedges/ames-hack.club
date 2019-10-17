@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 author: Christina Hedges
-permalink: page.path
+permalink: {{ page.path }}
 ---
 christina
 {{ page.url }}
