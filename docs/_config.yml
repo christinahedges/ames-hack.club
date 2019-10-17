@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-permalink: /ames-hack.club/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
