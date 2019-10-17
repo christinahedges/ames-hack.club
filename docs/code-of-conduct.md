@@ -1,6 +1,6 @@
 # Code of Conduct
 
-* Note: Ames Hack Club adopts the same Code of Conduct as Gaia Sprints and TESS.ninja *
+*Note: Ames Hack Club adopts the same Code of Conduct as Gaia Sprints and TESS.ninja*
 
 General Code of Conduct
 The Ames Hack Club (AHC) organizers are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of conference participants in any form. As such, we follow the [AAS Code of Ethics](https://aas.org/ethics), and expect all participants to read and abide by the statements in the [AAS Code of Ethics](https://aas.org/ethics).
