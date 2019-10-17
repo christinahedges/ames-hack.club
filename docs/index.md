@@ -15,12 +15,6 @@ Ames Hack Club is a group of scientists who meet several times a year to hack on
 
 A hack is a small project, with a clear goal, which should be **completed** by the end of the day. Here we use "hack" to mean *take a quick approach to solving a complex problem.* Hacking could mean taking a new approach to a theoretical problem, software problem, hardware problem, or just about anything!
 
-## What is the schedule?
-
-* **{{ page.time }}** Short intro and pitches
-* **Hack Time**
-* **{{ page.end_time }}** Presentations and wrap up slides
-
 ## What should I do at the hack day?
 
 1. Try something **new**
@@ -31,7 +25,15 @@ A hack is a small project, with a clear goal, which should be **completed** by t
 6. Everyone has experience that we value, we want to hear from everyone.
 7. Listen.
 
+## What is the schedule?
 
+* **{{ page.time }}** Short intro and pitches
+* **Hack Time**
+* **{{ page.end_time }}** Presentations and wrap up slides
+
+### Pitches
+
+At the beginning of the hack day we will have pitches. Any participant can stand up for 1 minute, explain the challenge they would like to work on, and pitch their idea for a hack. If you have something you'd like to pitch, be ready to stand up with the mic and pitch it to everyone at 9am!
 
 # Upcoming Hack Day: {{ page.date }}
 
