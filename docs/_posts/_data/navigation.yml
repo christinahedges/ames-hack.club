@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: FAQ
+  link: /faq.md
+- name: Blog
+  link: /blog.html
+- name: Code Of Conduct
+  link: /code-of-conduct.md
