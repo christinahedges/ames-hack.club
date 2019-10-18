@@ -8,7 +8,7 @@ AHC is a group of scientists at NASA Ames who meet 2-4 times a year to collabora
 
 ### Can I join Ames Hack Club?
 
-If you're a scientist at Ames, simply sign up for the next hack using our form. If you're outside Ames and want to collaborate in a hack day, get in touch. The more interest we have from people outside Ames, the easier it will be for us to set up a hack day that can include non-Ames scientists!
+If you're currently badged at Ames, and have skills you want to share with other scientists and engineers, please apply to attend the next hack using our form. Currently we aren't able to host participants who are not badged at Ames. If you're outside Ames and want to collaborate in a hack day, get in touch. The more interest we have from people outside Ames, the easier it will be for us to set up a hack day that can include non-Ames scientists!
 
 ### How do I sign up?
 

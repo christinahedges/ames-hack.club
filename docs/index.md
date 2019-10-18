@@ -1,6 +1,6 @@
 ---
 title: ames-hack.club
-date: December 2019
+date: 13th December 2019
 time: 9am
 end-time: 4:30pm
 location: the Ames Collaborative Space
@@ -18,13 +18,11 @@ A hack is a small project, with a clear goal, which should be **completed** by t
 
 ## What should I do at the hack day?
 
-1. Try something **new**
-2. Try to work with **someone new**
-3. It's okay to fail, or for a project not to come together
-4. Be bold.
-5. Be kind.
-6. Everyone has experience that we value, we want to hear from everyone.
-7. Listen.
+1. Try something new
+2. Work with someone new
+3. It’s okay to fail!
+4. Be bold and Be kind.
+5. Listen! Everyone has experience that we value, we want to hear from everyone.
 
 ## What is the schedule?
 
@@ -39,12 +37,12 @@ At the beginning of the hack day we will have pitches. Any participant can stand
 # Upcoming Hack Day
 
 
-{::nomarkdown}<center><img src="{{ site.url }}{{ site.baseurl }}/assets/ames-hack-poster-december.png" width=400></center>{:/}
+{::nomarkdown}<center><img src="{{ site.url }}{{ site.baseurl }}/assets/ames-hack-poster-december.png" width="400"></center>{:/}
 
 
 Our next hack day is on **{{ page.date }}**. You can join us at {{ page.time }} at {{ page.location }}. We will have a short 5 minute opening presentation at {{ page.time }}, after which we will have 1 minute lightning pitches from participants. At {{ page.end-time }} we will have wrap up slides from participants, showing what they've learned from the day.
 
-You can sign up to participate in our hack day by completing our [online form]({{ page.form_url }}).
+You can apply to participate in our hack day by completing our [online form]({{ page.form_url }}). Space is limited, so make sure to apply early and check your email!
 
 ### More Information
 
