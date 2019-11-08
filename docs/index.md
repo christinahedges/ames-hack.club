@@ -3,14 +3,15 @@ title: ames-hack.club
 date: 13th December 2019
 time: 9am
 end-time: 4:30pm
-location: the Ames Collaborative Space
+location: building N232 in Room 103
 form_url: https://forms.gle/QwSty4bSqedNE8X2A
 poster: https://github.com/christinahedges/ames-hack.club/blob/master/docs/_posts/images/ames-hack-poster-december.png
+form: https://docs.google.com/forms/d/e/1FAIpQLSf6diTF5gUS9-C9zLcNIQfvhoaR7koeGrzAEDh_hv-J2iy6tQ/viewform
 ---
 
 # Hello World
 
-Ames Hack Club is a group of scientists who meet several times a year to hack on science problems at NASA Ames. You can learn more about AHC at our [FAQ Page](faq.md). Our next hack day is coming on [{{ page.date }}](#upcoming-hack-day).
+Ames Hack Club is a group of researchers who meet several times a year to hack on research problems at NASA Ames. You can learn more about AHC at our [FAQ Page](faq.md). Our next hack day is coming on [{{ page.date }}](#upcoming-hack-day). Please sign up to participate [here]({{ page.form }}).
 
 ## What is a hack day?
 
